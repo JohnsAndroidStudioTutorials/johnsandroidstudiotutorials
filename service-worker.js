@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/johnsandroidstudiotutorials/precache-manifest.38b679025b4514d20e4895048b963af9.js"
+  "/johnsandroidstudiotutorials/precache-manifest.a60c8028df65c34caf50961f0f68a30a.js"
 );
 
 workbox.clientsClaim();

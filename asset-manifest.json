@@ -1,14 +1,14 @@
 {
-  "main.css": "/johnsandroidstudiotutorials/static/css/main.905a5093.chunk.css",
-  "main.js": "/johnsandroidstudiotutorials/static/js/main.99f1d2e3.chunk.js",
-  "main.js.map": "/johnsandroidstudiotutorials/static/js/main.99f1d2e3.chunk.js.map",
-  "runtime~main.js": "/johnsandroidstudiotutorials/static/js/runtime~main.039d9faf.js",
-  "runtime~main.js.map": "/johnsandroidstudiotutorials/static/js/runtime~main.039d9faf.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/johnsandroidstudiotutorials/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/johnsandroidstudiotutorials/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/johnsandroidstudiotutorials/index.html",
-  "precache-manifest.a60c8028df65c34caf50961f0f68a30a.js": "/johnsandroidstudiotutorials/precache-manifest.a60c8028df65c34caf50961f0f68a30a.js",
-  "service-worker.js": "/johnsandroidstudiotutorials/service-worker.js",
-  "static/css/main.905a5093.chunk.css.map": "/johnsandroidstudiotutorials/static/css/main.905a5093.chunk.css.map",
-  "static/media/logo.svg": "/johnsandroidstudiotutorials/static/media/logo.ee7cd8ed.svg"
+  "main.css": "/static/css/main.905a5093.chunk.css",
+  "main.js": "/static/js/main.24d34e75.chunk.js",
+  "main.js.map": "/static/js/main.24d34e75.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.9f6e5de0f8c49fdb89183976f7a9ad3f.js": "/precache-manifest.9f6e5de0f8c49fdb89183976f7a9ad3f.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.905a5093.chunk.css.map": "/static/css/main.905a5093.chunk.css.map",
+  "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg"
 }
